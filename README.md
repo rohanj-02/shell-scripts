@@ -33,3 +33,10 @@ How to Use:
 1. Make a file called `file_paths.sh`
 2. Declare variables to the path of common directory and to individual directories of each course.
 3. Run Script
+
+### How to run on Windows
+
+Each script has a .bat file to run the script on windows.
+
+1. Install Windows Subsystem of Linux
+2. Run the batch file in the folder of script you want to run
