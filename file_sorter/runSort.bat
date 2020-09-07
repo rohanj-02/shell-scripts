@@ -1,1 +1,1 @@
-bash -c ./sort-downloads.sh 
+bash -c ./sort_downloads.sh 

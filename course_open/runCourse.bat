@@ -1,1 +1,1 @@
-bash -c ./course-open.sh 
+bash -c ./course_open.sh 
