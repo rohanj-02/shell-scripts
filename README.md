@@ -8,12 +8,15 @@ A script that opens all the relevant links to attend classes of a subject.
 
 How to Use:
 
-1. Run script
-2. Type the abbreviation of course you want to open (sns, dm, os, ap, ff)
+1. Make a file called `links.sh`
+2. Declare variables of the links you want to open
+3. Change variable names in course_open.sh if required
+4. Run script
+5. Type the abbreviation of course you want to open (sns, dm, os, ap, ff)
 
 To customise:
 
-1. Change/Add links in the declared variables at the start of script.
+1. Change/Add links in the declared variables in `links.sh`.
 2. Change abbreviation name in if-else condition
 3. Enjoy saving 5 seconds of your life daily :)
 
@@ -27,6 +30,6 @@ For example: a file named ap_assignment1.zip is moved from the common directory 
 
 How to Use:
 
-1. Make a file called file_paths.sh
+1. Make a file called `file_paths.sh`
 2. Declare variables to the path of common directory and to individual directories of each course.
 3. Run Script
