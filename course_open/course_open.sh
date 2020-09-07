@@ -1,10 +1,5 @@
 #!/bin/bash
-OS_LINKS="https://classroom.google.com/c/MTQzNTE4MDkxNTEy https://meet.google.com/yvh-jdiq-jyi"
-SNS_LINKS="https://meet.google.com/"
-DM_LINKS="https://classroom.google.com/c/MTQ4MTkwMDYzNzI2"
-AP_LINKS="https://classroom.google.com/c/MTQ4MjE4MDExOTEx https://meet.google.com/ypg-oewc-zbx"
-FF_LINKS="https://classroom.google.com/c/MTI3MzQ5MTgxMDY1"
-CONST_URLS="https://web.whatsapp.com/ https://calendar.google.com/calendar/r"
+. ./links.sh
 read var
 if [ "$var" == "os" ] 
 then
